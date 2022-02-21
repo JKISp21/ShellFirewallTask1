@@ -1,0 +1,3 @@
+﻿53,udp,Block,"dns","02/28/2022"
+80,tcp,Block,"http","02/28/2022"
+443,tcp,Block,"https","02/28/2022"
